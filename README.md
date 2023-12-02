@@ -28,11 +28,9 @@ This depends on how you use it, but this time we will use y. Enter the necessary
 
 #
 
-First, select and download the release of the pyflycap2 repository on GitHub that matches your version of Python. It seems to be available for Python 3.7 to 3.10.
+First, select and download the release of the pyflycap2 repository on [Github](https://github.com/matham/pyflycap2/releases) that matches your version of Python. It seems to be available for Python 3.7 to 3.10.
 Then install it using pip. For example, in Python 3.7 it would be as follows.
-```
-https://github.com/matham/pyflycap2/releases
-```
+
 ```
 pip install pyflycap2-0.3.1-cp37-cp37m-linux_x86_64.whl
 ```
