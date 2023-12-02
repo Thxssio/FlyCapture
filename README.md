@@ -4,7 +4,7 @@
 
 ***How to use the flycapture camera and install it.***
 
-
+Recommended:
 ```
 sudo apt update
 ```
@@ -33,4 +33,8 @@ Then install it using pip. For example, in Python 3.7 it would be as follows.
 
 ```
 pip install pyflycap2-0.3.1-cp37-cp37m-linux_x86_64.whl
+```
+
+```
+sudo apt install libcanberra-gtk-module
 ```
